@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#This is a port of existing xl2tp daemon over Ipv6
 
 = Introduction =
 
